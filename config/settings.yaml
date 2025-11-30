@@ -1,0 +1,4 @@
+project_name: "Kasparro Ads Intelligence Agent"
+data_path: "data/sample_ads.csv"
+logs_path: "logs/run_logs.json"
+reports_path: "reports/"
